@@ -1,1 +1,12 @@
-I am the best in the world ..
+git branch
+
+Branch Commands
+git branch
+(to check branch)
+git branch -M main (to rename branch)
+git checkout <- branch name ->
+git checkout -b <- new branch name ->
+(to navigate)
+(to create new branch)
+git branch -d <- branch name ->
+(to delete branch)
